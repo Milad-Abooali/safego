@@ -1,0 +1,7 @@
+check device/ip.
+check exist session.
+log session request.
+session file location.
+creat session.
+log session.
+link session file with file, database.
