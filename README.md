@@ -1,0 +1,2 @@
+# safego
+Safe Go
