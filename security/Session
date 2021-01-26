@@ -5,3 +5,4 @@ session file location.
 creat session.
 log session.
 link session file with file, database.
+Genreate Token based on session.
