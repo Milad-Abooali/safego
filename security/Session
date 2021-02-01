@@ -1,8 +1,10 @@
-check device/ip.
-check exist session.
-log session request.
-session file location.
-creat session.
-log session.
-link session file with file, database.
+!IP
+Check device.
+Check exist session.
+Log session request & Link based IP.
+Session file location.
+Session life time.
+Creat session & Link based IP.
+Log session.
+Link session file / Database.
 Genreate Token based on session.
