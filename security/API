@@ -1,6 +1,6 @@
 ! IP
 ! Session
-log request.
-Check WAF API section.
+Log request.
+Check WAF.
 Check API key.
-Auth.
+Auth / Perm.
